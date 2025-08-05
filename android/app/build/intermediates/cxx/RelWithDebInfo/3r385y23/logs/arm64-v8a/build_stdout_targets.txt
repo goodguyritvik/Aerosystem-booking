@@ -1,0 +1,880 @@
+ninja: Entering directory `C:\New folder\Aerosystem Booking\android\app\.cxx\RelWithDebInfo\3r385y23\arm64-v8a'
+[0/2] Re-checking globbed directories...
+[1/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/States.cpp.o
+[2/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o
+[3/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o
+[4/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/EventEmitters.cpp.o
+[5/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/rnblurviewJSI-generated.cpp.o
+[6/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/ShadowNodes.cpp.o
+[7/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/rnblurview-generated.cpp.o
+[8/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ShadowNodes.cpp.o
+[9/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o
+[10/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o
+[11/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o
+[12/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o
+[13/120] Building CXX object rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o
+[14/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/RNDateTimePickerCGen-generated.cpp.o
+[15/120] Building CXX object CMakeFiles/appmodules.dir/OnLoad.cpp.o
+[16/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/States.cpp.o
+[17/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/Props.cpp.o
+[18/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/ComponentDescriptors.cpp.o
+[19/120] Building CXX object rnblurview_autolinked_build/CMakeFiles/react_codegen_rnblurview.dir/react/renderer/components/rnblurview/ComponentDescriptors.cpp.o
+[20/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/EventEmitters.cpp.o
+[21/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/bbc900d0a37601e23be6db29f8da705f/codegen/jni/react/renderer/components/RNCSlider/States.cpp.o
+[22/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/5c2bb4b8db950c26cf8676eb4c69cab8/react/renderer/components/RNCSlider/RNCSliderJSI-generated.cpp.o
+[23/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/9963c0d3eb2e853c18b042177881bbac/jni/react/renderer/components/RNCSlider/EventEmitters.cpp.o
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:16:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCSliderEventEmitter::onChange(OnChange $event) const {
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:17:28: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("change", [$event=std::move($event)](jsi::Runtime &runtime) {
+                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:17:45: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("change", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                            ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:18:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:19:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:19:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:20:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:20:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:21:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:26:77: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCSliderEventEmitter::onRNCSliderSlidingStart(OnRNCSliderSlidingStart $event) const {
+                                                                            ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:27:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderSlidingStart", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:27:60: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderSlidingStart", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:28:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:29:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:29:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:30:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:30:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:31:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:36:83: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCSliderEventEmitter::onRNCSliderSlidingComplete(OnRNCSliderSlidingComplete $event) const {
+                                                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:37:46: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderSlidingComplete", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                             ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:37:63: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderSlidingComplete", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:38:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:39:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:39:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:40:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:40:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:41:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:46:75: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCSliderEventEmitter::onRNCSliderValueChange(OnRNCSliderValueChange $event) const {
+                                                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:47:42: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderValueChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:47:59: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("rNCSliderValueChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:48:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:49:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:49:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "value", $event.value);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:50:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:50:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "fromUser", $event.fromUser);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-community/slider/android/build/generated/source/codegen/jni/react/renderer/components/RNCSlider/EventEmitters.cpp:51:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+36 warnings generated.
+[24/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/13e5db451150cc1628879224ca4ec527/RNDateTimePickerCGenJSI-generated.cpp.o
+[25/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/71de77db604819f0b284b0e035d02384/build/generated/source/codegen/jni/RNCSlider-generated.cpp.o
+[26/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/1f25389a7abc5074a645a88d5d293f83/renderer/components/RNCSlider/RNCSliderMeasurementsManager.cpp.o
+[27/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/5c2bb4b8db950c26cf8676eb4c69cab8/react/renderer/components/RNCSlider/ComponentDescriptors.cpp.o
+[28/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/d3f56c465489e290ca0765b746847e20/cpp/react/renderer/components/RNCSlider/RNCSliderShadowNode.cpp.o
+[29/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/bbc900d0a37601e23be6db29f8da705f/codegen/jni/react/renderer/components/RNCSlider/ShadowNodes.cpp.o
+[30/120] Building CXX object RNDateTimePickerCGen_autolinked_build/CMakeFiles/react_codegen_RNDateTimePickerCGen.dir/react/renderer/components/RNDateTimePickerCGen/Props.cpp.o
+[31/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerMeasurementsManager.cpp.o
+[32/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/6039ca0d30e9caa8ce624cf15ba4a7ab/source/codegen/jni/react/renderer/components/rnpicker/States.cpp.o
+[33/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerState.cpp.o
+[34/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o
+[35/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/84b854a3c554fb6c1eca010fe0a32f4b/jni/react/renderer/components/rnpicker/rnpickerJSI-generated.cpp.o
+[36/120] Building CXX object RNCSlider_autolinked_build/CMakeFiles/react_codegen_RNCSlider.dir/bbc900d0a37601e23be6db29f8da705f/codegen/jni/react/renderer/components/RNCSlider/Props.cpp.o
+[37/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerShadowNode.cpp.o
+[38/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/d341ce4df8e80b28ba35f19c3a960ee9/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp.o
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:16:60: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDialogPickerEventEmitter::onSelect(OnSelect $event) const {
+                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:17:31: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("topSelect", [$event=std::move($event)](jsi::Runtime &runtime) {
+                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:17:48: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("topSelect", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                               ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:18:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:19:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "position", $event.position);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:19:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "position", $event.position);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:20:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:25:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDialogPickerEventEmitter::onFocus(OnFocus $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:27:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:29:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:34:56: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDialogPickerEventEmitter::onBlur(OnBlur $event) const {
+                                                       ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:36:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:38:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:43:62: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDropdownPickerEventEmitter::onSelect(OnSelect $event) const {
+                                                             ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:44:31: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("topSelect", [$event=std::move($event)](jsi::Runtime &runtime) {
+                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:44:48: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("topSelect", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                               ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:45:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:46:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "position", $event.position);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:46:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "position", $event.position);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:47:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:52:60: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDropdownPickerEventEmitter::onFocus(OnFocus $event) const {
+                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:54:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:56:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:61:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCAndroidDropdownPickerEventEmitter::onBlur(OnBlur $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:63:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:65:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:70:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCPickerEventEmitter::onChange(OnChange $event) const {
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:71:28: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("change", [$event=std::move($event)](jsi::Runtime &runtime) {
+                           ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:71:45: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("change", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                            ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:72:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:73:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "newValue", $event.newValue);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:73:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "newValue", $event.newValue);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:74:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "newIndex", $event.newIndex);
+^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:74:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "newIndex", $event.newIndex);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/@react-native-picker/picker/android/build/generated/source/codegen/jni/react/renderer/components/rnpicker/EventEmitters.cpp:75:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+35 warnings generated.
+[39/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDialogPickerState.cpp.o
+[40/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o
+[41/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libreact_codegen_RNCSlider.so"
+[42/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerShadowNode.cpp.o
+[43/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/d341ce4df8e80b28ba35f19c3a960ee9/codegen/jni/react/renderer/components/rnpicker/ShadowNodes.cpp.o
+[44/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/rnpicker.cpp.o
+[45/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/84b854a3c554fb6c1eca010fe0a32f4b/jni/react/renderer/components/rnpicker/ComponentDescriptors.cpp.o
+[46/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/RNCAndroidDropdownPickerMeasurementsManager.cpp.o
+[47/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/EventEmitters.cpp.o
+[48/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o
+[49/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/EventEmitters.cpp.o
+[50/120] Building CXX object rnpicker_autolinked_build/CMakeFiles/react_codegen_rnpicker.dir/6039ca0d30e9caa8ce624cf15ba4a7ab/source/codegen/jni/react/renderer/components/rnpicker/Props.cpp.o
+[51/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o
+[52/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/ShadowNodes.cpp.o
+[53/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/ComponentDescriptors.cpp.o
+[54/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/RNLocalizeSpecJSI-generated.cpp.o
+[55/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o
+[56/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/RNLocalizeSpec-generated.cpp.o
+[57/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libreact_codegen_rnpicker.so"
+[58/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o
+[59/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/States.cpp.o
+[60/120] Building CXX object RNLocalizeSpec_autolinked_build/CMakeFiles/react_codegen_RNLocalizeSpec.dir/react/renderer/components/RNLocalizeSpec/Props.cpp.o
+[61/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o
+[62/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/ComponentDescriptors.cpp.o
+[63/120] Building CXX object rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o
+[64/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o
+[65/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o
+[66/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o
+[67/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e94ad608e6a02ddb612d5fb70fa93d70/components/safeareacontext/EventEmitters.cpp.o
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:16:69: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNCSafeAreaProviderEventEmitter::onInsetsChange(OnInsetsChange $event) const {
+                                                                    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:17:34: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("insetsChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                 ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:17:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("insetsChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:18:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:21:38: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  insets.setProperty(runtime, "top", $event.insets.top);
+                                     ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:22:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  insets.setProperty(runtime, "right", $event.insets.right);
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:23:41: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  insets.setProperty(runtime, "bottom", $event.insets.bottom);
+                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:24:39: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  insets.setProperty(runtime, "left", $event.insets.left);
+                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:25:3: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  $payload.setProperty(runtime, "insets", insets);
+  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:29:35: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  frame.setProperty(runtime, "x", $event.frame.x);
+                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:30:35: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  frame.setProperty(runtime, "y", $event.frame.y);
+                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:31:39: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  frame.setProperty(runtime, "width", $event.frame.width);
+                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:32:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  frame.setProperty(runtime, "height", $event.frame.height);
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:33:3: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  $payload.setProperty(runtime, "frame", frame);
+  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp:35:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+15 warnings generated.
+[68/120] Building CXX object rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o
+[69/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b1bfb1e4348f0953dee26334ea996e0d/renderer/components/safeareacontext/States.cpp.o
+[70/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/9e9892ff2d7e17baad3b7e0314021567/safeareacontext/safeareacontextJSI-generated.cpp.o
+[71/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/c18a71a186132b2d85968ff2d2a3556c/components/safeareacontext/RNCSafeAreaViewState.cpp.o
+[72/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/227a7e883b0518d430775b6fe983d020/source/codegen/jni/safeareacontext-generated.cpp.o
+[73/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/b1bfb1e4348f0953dee26334ea996e0d/renderer/components/safeareacontext/ShadowNodes.cpp.o
+[74/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/ecc0eeeb7fd83533bec18245eac04bc3/components/rnscreens/RNSScreenStackHeaderConfigState.cpp.o
+[75/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/928713e5dc40a0931efd591bd9102d58/react/renderer/components/safeareacontext/Props.cpp.o
+[76/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e02586488428e3e333c69dfcefdac163/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o
+[77/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/d5eab450de3bd739d6198e80b0969fa7/renderer/components/rnscreens/RNSModalScreenShadowNode.cpp.o
+[78/120] Building CXX object safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/e94ad608e6a02ddb612d5fb70fa93d70/components/safeareacontext/ComponentDescriptors.cpp.o
+[79/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/ecc0eeeb7fd83533bec18245eac04bc3/components/rnscreens/RNSScreenStackHeaderSubviewShadowNode.cpp.o
+[80/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/9a0e9f0be47de2b28bb40b61630a33be/codegen/jni/react/renderer/components/rnscreens/States.cpp.o
+[81/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libreact_codegen_safeareacontext.so"
+[82/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/761ed589c81484a9febb76841cc79de0/cpp/react/renderer/components/rnscreens/RNSScreenState.cpp.o
+[83/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/761ed589c81484a9febb76841cc79de0/cpp/react/renderer/components/rnscreens/RNSScreenShadowNode.cpp.o
+[84/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/ecc0eeeb7fd83533bec18245eac04bc3/components/rnscreens/RNSScreenStackHeaderConfigShadowNode.cpp.o
+[85/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/ecc0eeeb7fd83533bec18245eac04bc3/components/rnscreens/RNSScreenStackHeaderSubviewState.cpp.o
+[86/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/9a0e9f0be47de2b28bb40b61630a33be/codegen/jni/react/renderer/components/rnscreens/ShadowNodes.cpp.o
+[87/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/66ae41440bfc8065a383d1bf30a24524/react/renderer/components/rnscreens/rnscreensJSI-generated.cpp.o
+[88/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/014f286bc83be2cc68f9649bcb851bb4/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp.o
+[89/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/c3896ba18d4737f704b3e4563c1a388c/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp.o
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:31:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSVGImageEventEmitter::onLoad(OnLoad $event) const {
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:32:26: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("load", [$event=std::move($event)](jsi::Runtime &runtime) {
+                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:32:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("load", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:33:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:36:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  source.setProperty(runtime, "width", $event.source.width);
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:37:41: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  source.setProperty(runtime, "height", $event.source.height);
+                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:38:38: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  source.setProperty(runtime, "uri", $event.source.uri);
+                                     ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:39:3: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  $payload.setProperty(runtime, "source", source);
+  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp:41:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+9 warnings generated.
+[90/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/rnscreens.cpp.o
+[91/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/d55fb970f00c20c02bd55a8d819b1b10/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp.o
+[92/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/3df9f6b05796595d9cb5efe37bacbb1f/codegen/jni/react/renderer/components/rnsvg/rnsvgJSI-generated.cpp.o
+[93/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/75b65eecf74cbd146b9d1348a59e6f73/cpp/react/renderer/components/rnsvg/RNSVGLayoutableShadowNode.cpp.o
+[94/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/c3896ba18d4737f704b3e4563c1a388c/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp.o
+[95/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/9a0e9f0be47de2b28bb40b61630a33be/codegen/jni/react/renderer/components/rnscreens/Props.cpp.o
+[96/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/d55fb970f00c20c02bd55a8d819b1b10/common/cpp/react/renderer/components/rnsvg/RNSVGShadowNodes.cpp.o
+[97/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o
+[98/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/63a4e69af2661f4b95132ff0af7d5190/jni/react/renderer/components/rnscreens/EventEmitters.cpp.o
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:17:52: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onAppear(OnAppear $event) const {
+                                                   ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:19:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:21:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:26:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onDisappear(OnDisappear $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:28:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:30:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:35:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onDismissed(OnDismissed $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:36:31: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("dismissed", [$event=std::move($event)](jsi::Runtime &runtime) {
+                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:36:48: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("dismissed", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                               ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:37:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:38:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:38:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:39:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:44:84: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onNativeDismissCancelled(OnNativeDismissCancelled $event) const {
+                                                                                   ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:45:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("nativeDismissCancelled", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:45:61: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("nativeDismissCancelled", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                            ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:46:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:47:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:47:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:48:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:53:60: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onWillAppear(OnWillAppear $event) const {
+                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:55:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:57:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:62:66: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onWillDisappear(OnWillDisappear $event) const {
+                                                                 ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:64:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:66:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:71:76: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onHeaderHeightChange(OnHeaderHeightChange $event) const {
+                                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:72:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("headerHeightChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:72:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("headerHeightChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:73:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:74:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "headerHeight", $event.headerHeight);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:74:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "headerHeight", $event.headerHeight);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:75:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:80:76: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onTransitionProgress(OnTransitionProgress $event) const {
+                                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:81:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("transitionProgress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:81:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("transitionProgress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:82:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:83:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "progress", $event.progress);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:83:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "progress", $event.progress);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:84:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "closing", $event.closing);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:84:42: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "closing", $event.closing);
+                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:85:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "goingForward", $event.goingForward);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:85:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "goingForward", $event.goingForward);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:86:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:91:66: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onGestureCancel(OnGestureCancel $event) const {
+                                                                 ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:93:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:95:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:100:86: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onHeaderBackButtonClicked(OnHeaderBackButtonClicked $event) const {
+                                                                                     ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:102:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:104:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:109:76: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSModalScreenEventEmitter::onSheetDetentChanged(OnSheetDetentChanged $event) const {
+                                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:110:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("sheetDetentChanged", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:110:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("sheetDetentChanged", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:111:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:112:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "index", $event.index);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:112:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "index", $event.index);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:113:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "isStable", $event.isStable);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:113:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "isStable", $event.isStable);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:114:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:122:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onAppear(OnAppear $event) const {
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:124:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:126:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:131:53: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onDisappear(OnDisappear $event) const {
+                                                    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:133:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:135:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:140:53: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onDismissed(OnDismissed $event) const {
+                                                    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:141:31: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("dismissed", [$event=std::move($event)](jsi::Runtime &runtime) {
+                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:141:48: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("dismissed", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                               ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:142:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:143:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:143:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:144:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:149:79: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onNativeDismissCancelled(OnNativeDismissCancelled $event) const {
+                                                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:150:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("nativeDismissCancelled", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:150:61: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("nativeDismissCancelled", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                            ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:151:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:152:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:152:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "dismissCount", $event.dismissCount);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:153:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:158:55: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onWillAppear(OnWillAppear $event) const {
+                                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:160:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:162:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:167:61: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onWillDisappear(OnWillDisappear $event) const {
+                                                            ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:169:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:171:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:176:71: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onHeaderHeightChange(OnHeaderHeightChange $event) const {
+                                                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:177:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("headerHeightChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:177:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("headerHeightChange", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:178:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:179:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "headerHeight", $event.headerHeight);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:179:51: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "headerHeight", $event.headerHeight);
+                                                  ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:180:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:185:71: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onTransitionProgress(OnTransitionProgress $event) const {
+                                                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:186:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("transitionProgress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:186:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("transitionProgress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:187:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:188:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "progress", $event.progress);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:188:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "progress", $event.progress);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:189:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "closing", $event.closing);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:189:42: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "closing", $event.closing);
+                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:190:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "goingForward", $event.goingForward);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:190:47: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "goingForward", $event.goingForward);
+                                              ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:191:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:196:61: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onGestureCancel(OnGestureCancel $event) const {
+                                                            ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:198:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:200:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:205:81: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onHeaderBackButtonClicked(OnHeaderBackButtonClicked $event) const {
+                                                                                ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:207:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:209:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:214:71: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenEventEmitter::onSheetDetentChanged(OnSheetDetentChanged $event) const {
+                                                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:215:40: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("sheetDetentChanged", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:215:57: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("sheetDetentChanged", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                        ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:216:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:217:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "index", $event.index);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:217:44: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "index", $event.index);
+                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:218:1: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "isStable", $event.isStable);
+^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:218:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+$payload.setProperty(runtime, "isStable", $event.isStable);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:219:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:225:68: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenStackHeaderConfigEventEmitter::onAttached(OnAttached $event) const {
+                                                                   ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:227:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:229:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:234:68: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenStackHeaderConfigEventEmitter::onDetached(OnDetached $event) const {
+                                                                   ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:236:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:238:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:244:78: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSScreenStackEventEmitter::onFinishTransitioning(OnFinishTransitioning $event) const {
+                                                                             ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:246:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:248:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:253:60: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onSearchFocus(OnSearchFocus $event) const {
+                                                           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:255:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:257:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:262:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onSearchBlur(OnSearchBlur $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:264:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:266:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:271:72: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onSearchButtonPress(OnSearchButtonPress $event) const {
+                                                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:272:39: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("searchButtonPress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                      ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:272:56: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("searchButtonPress", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:273:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:274:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "text", $event.text);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:274:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "text", $event.text);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:275:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:280:72: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onCancelButtonPress(OnCancelButtonPress $event) const {
+                                                                       ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:282:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:284:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:289:58: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onChangeText(OnChangeText $event) const {
+                                                         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:290:32: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("changeText", [$event=std::move($event)](jsi::Runtime &runtime) {
+                               ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:290:49: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+  dispatchEvent("changeText", [$event=std::move($event)](jsi::Runtime &runtime) {
+                                                ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:291:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:292:5: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "text", $event.text);
+    ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:292:43: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    $payload.setProperty(runtime, "text", $event.text);
+                                          ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:293:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:298:48: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onClose(OnClose $event) const {
+                                               ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:300:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:302:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:307:46: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+void RNSSearchBarEventEmitter::onOpen(OnOpen $event) const {
+                                             ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:309:10: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    auto $payload = jsi::Object(runtime);
+         ^
+C:/New folder/Aerosystem Booking/node_modules/react-native-screens/android/build/generated/source/codegen/jni/react/renderer/components/rnscreens/EventEmitters.cpp:311:12: warning: '$' in identifier [-Wdollar-in-identifier-extension]
+    return $payload;
+           ^
+156 warnings generated.
+[99/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/d55fb970f00c20c02bd55a8d819b1b10/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp.o
+[100/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o
+[101/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/3df9f6b05796595d9cb5efe37bacbb1f/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp.o
+[102/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o
+[103/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o
+[104/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg.cpp.o
+[105/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o
+[106/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o
+[107/120] Building CXX object RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o
+[108/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o
+[109/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o
+[110/120] Building CXX object rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir/66ae41440bfc8065a383d1bf30a24524/react/renderer/components/rnscreens/ComponentDescriptors.cpp.o
+[111/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o
+[112/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o
+[113/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libreact_codegen_rnscreens.so"
+[114/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o
+[115/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o
+[116/120] Building CXX object RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o
+[117/120] Building CXX object rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/014f286bc83be2cc68f9649bcb851bb4/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp.o
+[118/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libreact_codegen_rnsvg.so"
+[119/120] Building CXX object CMakeFiles/appmodules.dir/C_/New_folder/Aerosystem_Booking/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o
+[120/120] Linking CXX shared library "C:\New folder\Aerosystem Booking\android\app\build\intermediates\cxx\RelWithDebInfo\3r385y23\obj\arm64-v8a\libappmodules.so"

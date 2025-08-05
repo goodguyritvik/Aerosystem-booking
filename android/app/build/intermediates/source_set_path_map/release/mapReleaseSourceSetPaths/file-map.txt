@@ -1,0 +1,103 @@
+com.hawk.customerapp-res-0 C:\New folder\Aerosystem Booking\android\app\build\generated\res\createBundleReleaseJsAndAssets
+com.hawk.customerapp-google-services-1 C:\New folder\Aerosystem Booking\android\app\build\generated\res\google-services\release
+com.hawk.customerapp-pngs-2 C:\New folder\Aerosystem Booking\android\app\build\generated\res\pngs\release
+com.hawk.customerapp-resValues-3 C:\New folder\Aerosystem Booking\android\app\build\generated\res\resValues\release
+com.hawk.customerapp-packageReleaseResources-4 C:\New folder\Aerosystem Booking\android\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.hawk.customerapp-packageReleaseResources-5 C:\New folder\Aerosystem Booking\android\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.hawk.customerapp-release-6 C:\New folder\Aerosystem Booking\android\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.hawk.customerapp-main-7 C:\New folder\Aerosystem Booking\android\app\src\main\res
+com.hawk.customerapp-release-8 C:\New folder\Aerosystem Booking\android\app\src\release\res
+com.hawk.customerapp-release-9 C:\New folder\Aerosystem Booking\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-10 C:\New folder\Aerosystem Booking\node_modules\@react-native-community\blur\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-11 C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-12 C:\New folder\Aerosystem Booking\node_modules\@react-native-community\slider\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-13 C:\New folder\Aerosystem Booking\node_modules\@react-native-picker\picker\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-14 C:\New folder\Aerosystem Booking\node_modules\expo-asset\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-15 C:\New folder\Aerosystem Booking\node_modules\expo-blur\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-16 C:\New folder\Aerosystem Booking\node_modules\expo-constants\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-17 C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-18 C:\New folder\Aerosystem Booking\node_modules\expo-font\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-19 C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-20 C:\New folder\Aerosystem Booking\node_modules\expo-keep-awake\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-21 C:\New folder\Aerosystem Booking\node_modules\expo-linking\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-22 C:\New folder\Aerosystem Booking\node_modules\expo-localization\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-23 C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-24 C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-25 C:\New folder\Aerosystem Booking\node_modules\expo-splash-screen\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-26 C:\New folder\Aerosystem Booking\node_modules\expo-system-ui\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-27 C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-28 C:\New folder\Aerosystem Booking\node_modules\expo\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-29 C:\New folder\Aerosystem Booking\node_modules\react-native-gesture-handler\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-30 C:\New folder\Aerosystem Booking\node_modules\react-native-linear-gradient\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-31 C:\New folder\Aerosystem Booking\node_modules\react-native-localize\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-32 C:\New folder\Aerosystem Booking\node_modules\react-native-maps\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-33 C:\New folder\Aerosystem Booking\node_modules\react-native-reanimated\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-34 C:\New folder\Aerosystem Booking\node_modules\react-native-safe-area-context\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-35 C:\New folder\Aerosystem Booking\node_modules\react-native-screens\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-36 C:\New folder\Aerosystem Booking\node_modules\react-native-svg\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-37 C:\New folder\Aerosystem Booking\node_modules\react-native-vector-icons\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-release-38 C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\packaged_res\release\packageReleaseResources
+com.hawk.customerapp-fragment-ktx-1.6.1-39 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\02936854c69731eb5ff7ed6826d0be85\transformed\fragment-ktx-1.6.1\res
+com.hawk.customerapp-ui-text-release-40 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0592b66c7efeaa3389717e15942410d1\transformed\ui-text-release\res
+com.hawk.customerapp-play-services-maps-18.2.0-41 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\res
+com.hawk.customerapp-lifecycle-viewmodel-savedstate-2.8.3-42 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\09a53af03423b221241cf892a4d24da1\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.hawk.customerapp-drawee-3.2.0-43 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0bd34bfd405aec352e48c9831e2e4827\transformed\drawee-3.2.0\res
+com.hawk.customerapp-savedstate-1.2.1-44 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0c4585f1207d1335d4600b8eeb266d4b\transformed\savedstate-1.2.1\res
+com.hawk.customerapp-autofill-1.1.0-45 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\17bcf9ba2b5045a091a141be79cf956c\transformed\autofill-1.1.0\res
+com.hawk.customerapp-core-splashscreen-1.2.0-alpha02-46 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\181f244e2940343c15184781a1001f48\transformed\core-splashscreen-1.2.0-alpha02\res
+com.hawk.customerapp-appcompat-resources-1.7.0-47 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1efa48a438a4d754de00f0e63fd61911\transformed\appcompat-resources-1.7.0\res
+com.hawk.customerapp-drawerlayout-1.1.1-48 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\21e57c66142517d1c776ab7006047b96\transformed\drawerlayout-1.1.1\res
+com.hawk.customerapp-tracing-ktx-1.2.0-49 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\241c4167ad154d9a161e0f802a04faea\transformed\tracing-ktx-1.2.0\res
+com.hawk.customerapp-cardview-1.0.0-50 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2abc9d9cf56128ca6b3df84809d5c44f\transformed\cardview-1.0.0\res
+com.hawk.customerapp-emoji2-views-helper-1.3.0-51 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2fae46b590a70b0b81261b71834d2657\transformed\emoji2-views-helper-1.3.0\res
+com.hawk.customerapp-ui-geometry-release-52 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3361b958f713e8ec7f5231b6476cdc36\transformed\ui-geometry-release\res
+com.hawk.customerapp-foundation-release-53 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\337d01a481d6a5a67468588e962e87f9\transformed\foundation-release\res
+com.hawk.customerapp-lifecycle-runtime-release-54 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\343ffd6820b3f2055a6e4bdf0f010910\transformed\lifecycle-runtime-release\res
+com.hawk.customerapp-foundation-layout-release-55 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\36ee64f58b40df4462db9c5db463e335\transformed\foundation-layout-release\res
+com.hawk.customerapp-recyclerview-1.1.0-56 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\370e3cdf0b04da5f8102846292580a9c\transformed\recyclerview-1.1.0\res
+com.hawk.customerapp-runtime-saveable-release-57 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3aef31357b0d4b79c92235c2e3d99584\transformed\runtime-saveable-release\res
+com.hawk.customerapp-swiperefreshlayout-1.1.0-58 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f09a00f408cf12383168f3c5c8919cc\transformed\swiperefreshlayout-1.1.0\res
+com.hawk.customerapp-ui-unit-release-59 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43ceb8baffe0b03f803325fce6d25139\transformed\ui-unit-release\res
+com.hawk.customerapp-appcompat-1.7.0-60 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43daaa664fb4573f48441f4c3fe1ac8b\transformed\appcompat-1.7.0\res
+com.hawk.customerapp-lifecycle-livedata-2.8.3-61 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\468cb39da09f83e19fd485b8d6ccc878\transformed\lifecycle-livedata-2.8.3\res
+com.hawk.customerapp-transition-1.5.0-62 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\488eb3c5765a0cda9a8bd50c5337845f\transformed\transition-1.5.0\res
+com.hawk.customerapp-browser-1.6.0-63 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4a2d053bb361dcb6e3d9e536cb6a0526\transformed\browser-1.6.0\res
+com.hawk.customerapp-annotation-experimental-1.4.1-64 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4c3492152fa69c7ab62a1c31e38c7d09\transformed\annotation-experimental-1.4.1\res
+com.hawk.customerapp-ui-util-release-65 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4eaccdf396f46a9495f417827f6ea131\transformed\ui-util-release\res
+com.hawk.customerapp-tracing-1.2.0-66 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5634f88db939abbce14a3ecc945ee400\transformed\tracing-1.2.0\res
+com.hawk.customerapp-activity-ktx-1.8.0-67 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\56924311ca0ff108c77998ea54eebb43\transformed\activity-ktx-1.8.0\res
+com.hawk.customerapp-viewpager2-1.0.0-68 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5bb57a469f165a55f7fe962db7e9890f\transformed\viewpager2-1.0.0\res
+com.hawk.customerapp-android-maps-utils-3.8.2-69 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\res
+com.hawk.customerapp-BlurView-version-2.0.6-70 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\res
+com.hawk.customerapp-lifecycle-service-2.8.3-71 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6556e62f1127dd615a2b307ab0089b80\transformed\lifecycle-service-2.8.3\res
+com.hawk.customerapp-ui-release-72 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\660786a8d0893d25e7151a8535d75eed\transformed\ui-release\res
+com.hawk.customerapp-lifecycle-runtime-compose-release-73 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\67f72fe4071d8963e1cce0422ccdfd42\transformed\lifecycle-runtime-compose-release\res
+com.hawk.customerapp-emoji2-1.3.0-74 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\res
+com.hawk.customerapp-profileinstaller-1.3.1-75 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\res
+com.hawk.customerapp-animation-release-76 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\704e5badc2b49cf1c74defa5ed59e5b0\transformed\animation-release\res
+com.hawk.customerapp-graphics-path-1.0.1-77 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\725b8c8b8e60e97dd5c5d9f6f28721ff\transformed\graphics-path-1.0.1\res
+com.hawk.customerapp-coordinatorlayout-1.2.0-78 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\783b4bf0839440833ecd154577fce484\transformed\coordinatorlayout-1.2.0\res
+com.hawk.customerapp-lifecycle-viewmodel-ktx-2.8.3-79 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\785e773c981b9c3b19f497816f891803\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.hawk.customerapp-animation-core-release-80 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7e7d497e3665adde7bd4d9e2129632b8\transformed\animation-core-release\res
+com.hawk.customerapp-media-1.0.0-81 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\839975acac56fa33e2bed187c3b1d397\transformed\media-1.0.0\res
+com.hawk.customerapp-activity-1.8.0-82 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8687f44900a3ece0a081db50739bfdd7\transformed\activity-1.8.0\res
+com.hawk.customerapp-material-1.12.0-83 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\res
+com.hawk.customerapp-lifecycle-runtime-ktx-release-84 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\963047afabc4937639b274dfbf4d8743\transformed\lifecycle-runtime-ktx-release\res
+com.hawk.customerapp-play-services-basement-18.1.0-85 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\res
+com.hawk.customerapp-fragment-1.6.1-86 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a032d37906ecd92566ac0ca90eee88a5\transformed\fragment-1.6.1\res
+com.hawk.customerapp-lifecycle-livedata-core-2.8.3-87 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a0f3f3bb7ce6bc6f0628cecad1f6675e\transformed\lifecycle-livedata-core-2.8.3\res
+com.hawk.customerapp-runtime-release-88 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\aa32f4661f85b2255a547e5b05adf397\transformed\runtime-release\res
+com.hawk.customerapp-constraintlayout-2.0.1-89 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\res
+com.hawk.customerapp-core-ktx-1.13.1-90 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\b3e9720a7b224dfb06aab766d01d63b4\transformed\core-ktx-1.13.1\res
+com.hawk.customerapp-work-runtime-2.7.1-91 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\res
+com.hawk.customerapp-customview-poolingcontainer-1.0.0-92 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c67e559fec4c2f3d31626d0104e4bd6e\transformed\customview-poolingcontainer-1.0.0\res
+com.hawk.customerapp-lifecycle-viewmodel-release-93 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c7fcd7597d57c81dac22945ec0bdb09c\transformed\lifecycle-viewmodel-release\res
+com.hawk.customerapp-core-1.13.1-94 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\res
+com.hawk.customerapp-lifecycle-livedata-core-ktx-2.8.3-95 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cf6026ad926275c12c7c1473d109c7d4\transformed\lifecycle-livedata-core-ktx-2.8.3\res
+com.hawk.customerapp-play-services-base-18.2.0-96 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\res
+com.hawk.customerapp-lifecycle-process-2.8.3-97 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\res
+com.hawk.customerapp-startup-runtime-1.1.1-98 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\res
+com.hawk.customerapp-ui-graphics-release-99 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ea269bd59f67fe28815824d50b66f70e\transformed\ui-graphics-release\res
+com.hawk.customerapp-savedstate-ktx-1.2.1-100 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f28c4aa1c9e26547fd9c65442f51af66\transformed\savedstate-ktx-1.2.1\res
+com.hawk.customerapp-react-android-0.76.9-release-101 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fb15361400df7dca3771f40242de4076\transformed\react-android-0.76.9-release\res
+com.hawk.customerapp-core-runtime-2.2.0-102 C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fbb3227bfa6399bf85af81173ed311d8\transformed\core-runtime-2.2.0\res

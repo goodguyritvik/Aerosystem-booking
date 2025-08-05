@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681143401691",
+    "project_id": "customerapp-f50ff",
+    "storage_bucket": "customerapp-f50ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681143401691:android:4e97c496360060982c60fe",
+        "android_client_info": {
+          "package_name": "com.hawk.customerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjDmKC5es4QLLEK0RVTC6UCulOBDNCAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

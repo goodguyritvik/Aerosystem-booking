@@ -1,0 +1,1088 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:react-native-community_datetimepicker] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo] C:\New folder\Aerosystem Booking\node_modules\expo\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] C:\New folder\Aerosystem Booking\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-localize] C:\New folder\Aerosystem Booking\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] C:\New folder\Aerosystem Booking\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] C:\New folder\Aerosystem Booking\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-async-storage_async-storage] C:\New folder\Aerosystem Booking\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_blur] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_slider] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-picker_picker] C:\New folder\Aerosystem Booking\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-linear-gradient] C:\New folder\Aerosystem Booking\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-maps] C:\New folder\Aerosystem Booking\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] C:\New folder\Aerosystem Booking\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] C:\New folder\Aerosystem Booking\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] C:\New folder\Aerosystem Booking\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-asset] C:\New folder\Aerosystem Booking\node_modules\expo-asset\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-blur] C:\New folder\Aerosystem Booking\node_modules\expo-blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-constants] C:\New folder\Aerosystem Booking\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-33:12
+MERGED from [:expo-font] C:\New folder\Aerosystem Booking\node_modules\expo-font\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-haptics] C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-9:12
+MERGED from [:expo-keep-awake] C:\New folder\Aerosystem Booking\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-linking] C:\New folder\Aerosystem Booking\node_modules\expo-linking\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-localization] C:\New folder\Aerosystem Booking\node_modules\expo-localization\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-splash-screen] C:\New folder\Aerosystem Booking\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-system-ui] C:\New folder\Aerosystem Booking\node_modules\expo-system-ui\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-15:12
+MERGED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fb15361400df7dca3771f40242de4076\transformed\react-android-0.76.9-release\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ece15625b4e46a31ebc6fa468a128d0c\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:16:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5bb57a469f165a55f7fe962db7e9890f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\579512685ac3d38e08bbaed9ca7955b4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-splashscreen:1.2.0-alpha02] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\181f244e2940343c15184781a1001f48\transformed\core-splashscreen-1.2.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1efa48a438a4d754de00f0e63fd61911\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43daaa664fb4573f48441f4c3fe1ac8b\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a95a5828ef66689a535a30c86d8d4019\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a032d37906ecd92566ac0ca90eee88a5\transformed\fragment-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\02936854c69731eb5ff7ed6826d0be85\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\79f6cb3581988629fa4bc558c1076e33\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\783b4bf0839440833ecd154577fce484\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f09a00f408cf12383168f3c5c8919cc\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cb1c6c911c584dfb4dde0b70bfd09f51\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\337d01a481d6a5a67468588e962e87f9\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\36ee64f58b40df4462db9c5db463e335\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7e7d497e3665adde7bd4d9e2129632b8\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\704e5badc2b49cf1c74defa5ed59e5b0\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43ceb8baffe0b03f803325fce6d25139\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ea269bd59f67fe28815824d50b66f70e\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3361b958f713e8ec7f5231b6476cdc36\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4eaccdf396f46a9495f417827f6ea131\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0592b66c7efeaa3389717e15942410d1\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\660786a8d0893d25e7151a8535d75eed\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\17bcf9ba2b5045a091a141be79cf956c\transformed\autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:animated-gif:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\63447920751b3f37eb673ba4e8fd0709\transformed\animated-gif-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:webpsupport:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c81a607669b133a229de9a1a178d38e2\transformed\webpsupport-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ec430c81226cb3802e3ac0d1d515c2b2\transformed\fresco-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f367a5ece5f312b1ec5282033f06b4b\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:animated-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\924febf450fb22ea8ad5ce3012767064\transformed\animated-base-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:animated-drawable:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\953a56d183742a3574e941b19357bc8f\transformed\animated-drawable-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:vito-options:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ae6b4fd20e024337cb3f5825a32e46a5\transformed\vito-options-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0bd34bfd405aec352e48c9831e2e4827\transformed\drawee-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\96f70f4b0f74ba2645131dfc6ffc6ec2\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\34bbd3580853e78027150cbd8a8cc6d2\transformed\memory-type-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2f9765c48512c9cb9b7e6d8f049b2cc9\transformed\memory-type-java-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5f27edaa85803ae67bdd843c927a798c\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4b33958e5ce9f8cf7bb8509606bafc51\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d0578d021cebf6df7a4673c53b06e976\transformed\imagepipeline-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ab5377ee764f2770a72e21a0eec4c01b\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\448b715c482bc354af7b49c881a85b0d\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1a10d80d9a25e5da910e5493bfcda22\transformed\middleware-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1e8ccffeeb593cc4718764b4f181a1e6\transformed\ui-common-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0ff2f135b1459039d5c32b17858c847b\transformed\soloader-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bf730b90797406312c98548bc466006a\transformed\fbcore-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\488eb3c5765a0cda9a8bd50c5337845f\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\56924311ca0ff108c77998ea54eebb43\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8687f44900a3ece0a081db50739bfdd7\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\21e57c66142517d1c776ab7006047b96\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bcb2ddf88cca2632fa89e5b18911a878\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\967924b7c77932d833a2f3e1151bd50a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\9b48841cf6b5352ff36c3daeebc68abd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4a2d053bb361dcb6e3d9e536cb6a0526\transformed\browser-1.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\370e3cdf0b04da5f8102846292580a9c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\707e73414859c0813305602a6d961b47\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7c34ae6caf8fe2dcedbb6e51633710c6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\08d27a861954a5392509dce56639cc68\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a8958094c2e72be669727aa8aaed9853\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2fae46b590a70b0b81261b71834d2657\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\839975acac56fa33e2bed187c3b1d397\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ee2b05032c3c0c8d7a5fc00319684f65\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c0e776ac28eeb1a8ee87e0300cd9f95b\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\725b8c8b8e60e97dd5c5d9f6f28721ff\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c67e559fec4c2f3d31626d0104e4bd6e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f28c4aa1c9e26547fd9c65442f51af66\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0c4585f1207d1335d4600b8eeb266d4b\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c66fa6bfe287c9d49276f8ac6267e12b\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c7fcd7597d57c81dac22945ec0bdb09c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\963047afabc4937639b274dfbf4d8743\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\343ffd6820b3f2055a6e4bdf0f010910\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\785e773c981b9c3b19f497816f891803\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6556e62f1127dd615a2b307ab0089b80\transformed\lifecycle-service-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cf6026ad926275c12c7c1473d109c7d4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a0f3f3bb7ce6bc6f0628cecad1f6675e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\468cb39da09f83e19fd485b8d6ccc878\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\67f72fe4071d8963e1cce0422ccdfd42\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\09a53af03423b221241cf892a4d24da1\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\b3e9720a7b224dfb06aab766d01d63b4\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5634f88db939abbce14a3ecc945ee400\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\241c4167ad154d9a161e0f802a04faea\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3aef31357b0d4b79c92235c2e3d99584\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\aa32f4661f85b2255a547e5b05adf397\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:vito-renderer:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c35d2453b6154b1442a5d87dfbf86f9a\transformed\vito-renderer-3.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c08e072f8e515d72808790618d6e0266\transformed\hermes-android-0.76.9-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2abc9d9cf56128ca6b3df84809d5c44f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.Dimezis:BlurView:version-2.0.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5c55c8f32814be328cd2b0851a05e6bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\10a4513fbe883a25fbcfe6aa9b90be92\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\563977e3f96fe1c5e67d6a9e3abde928\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6f7265e9585cd0d1b8d852fb89d0c84d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\721f9290a41f46071cc395c63974925b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f52b14f27993c7698e6b7857ab15778c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0f38b48a9320543aa8e5641bc9c60ea6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f99713486c3970bed2311f04ffbd34f6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fbb3227bfa6399bf85af81173ed311d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4c3492152fa69c7ab62a1c31e38c7d09\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\284f302da7aa3a9dd3553e98866f7270\transformed\fbjni-0.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:2:1-30:12
+	package
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:2:3-78
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-81
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-81
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:12:5-81
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:2:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:3:3-76
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-79
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-79
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:14:5-79
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:3:20-74
+uses-permission#android.permission.INTERNET
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:4:3-64
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:4:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:5:3-77
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-80
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:5:20-75
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:6:3-75
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:6:20-73
+uses-permission#android.permission.VIBRATE
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:7:3-63
+MERGED from [:expo-haptics] C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-66
+MERGED from [:expo-haptics] C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:7:20-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:8:3-78
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:5-81
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:8:20-76
+queries
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:9:3-15:13
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:5-18:15
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:5-18:15
+MERGED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:15
+MERGED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-13:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:10:5-14:14
+action#android.intent.action.VIEW
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:11:7-58
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:11:15-56
+category#android.intent.category.BROWSABLE
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:12:7-67
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:12:17-65
+data
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:13:7-37
+	android:scheme
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:13:13-35
+application
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:3-34:17
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:3-34:17
+MERGED from [:react-native-community_datetimepicker] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-20
+MERGED from [:react-native-community_datetimepicker] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-20
+MERGED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:7:5-17:19
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-31:19
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:20:5-31:19
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-15:19
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:5-15:19
+MERGED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-16:19
+MERGED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ece15625b4e46a31ebc6fa468a128d0c\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ece15625b4e46a31ebc6fa468a128d0c\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:19:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a95a5828ef66689a535a30c86d8d4019\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a95a5828ef66689a535a30c86d8d4019\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.Dimezis:BlurView:version-2.0.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.Dimezis:BlurView:version-2.0.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6f7265e9585cd0d1b8d852fb89d0c84d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6f7265e9585cd0d1b8d852fb89d0c84d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:11:5-15:19
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:18:5-28:19
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:18:5-28:19
+	android:extractNativeLibs
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:221-247
+	android:label
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:48-80
+	android:roundIcon
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:116-161
+	android:icon
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:81-115
+	android:allowBackup
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:162-188
+	android:theme
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:189-220
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:16:16-47
+meta-data#expo.modules.updates.ENABLED
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:17:5-83
+	android:value
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:17:60-81
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:17:16-59
+meta-data#expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:18:5-105
+	android:value
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:18:81-103
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:18:16-80
+meta-data#expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:19:5-99
+	android:value
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:19:80-97
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:19:16-79
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:20:5-119
+	android:value
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:20:62-117
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:20:16-61
+activity#com.hawk.customerapp.MainActivity
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:5-33:16
+	android:screenOrientation
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:303-339
+	android:launchMode
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:158-189
+	android:windowSoftInputMode
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:190-232
+	android:exported
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:279-302
+	android:configChanges
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:44-157
+	android:theme
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:233-278
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:21:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:22:7-25:23
+action#android.intent.action.MAIN
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:23:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:24:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.hawk.customerapp+data:scheme:myapp
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:26:7-32:23
+category#android.intent.category.DEFAULT
+ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:28:9-67
+	android:name
+		ADDED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml:28:19-65
+uses-sdk
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-community_datetimepicker] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_datetimepicker] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\datetimepicker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo] C:\New folder\Aerosystem Booking\node_modules\expo\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo] C:\New folder\Aerosystem Booking\node_modules\expo\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\New folder\Aerosystem Booking\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] C:\New folder\Aerosystem Booking\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-localize] C:\New folder\Aerosystem Booking\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-localize] C:\New folder\Aerosystem Booking\node_modules\react-native-localize\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\New folder\Aerosystem Booking\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] C:\New folder\Aerosystem Booking\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\New folder\Aerosystem Booking\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] C:\New folder\Aerosystem Booking\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] C:\New folder\Aerosystem Booking\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] C:\New folder\Aerosystem Booking\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_blur] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_blur] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] C:\New folder\Aerosystem Booking\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\New folder\Aerosystem Booking\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] C:\New folder\Aerosystem Booking\node_modules\@react-native-picker\picker\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\New folder\Aerosystem Booking\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] C:\New folder\Aerosystem Booking\node_modules\react-native-linear-gradient\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-maps] C:\New folder\Aerosystem Booking\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-maps] C:\New folder\Aerosystem Booking\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] C:\New folder\Aerosystem Booking\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] C:\New folder\Aerosystem Booking\node_modules\react-native-reanimated\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\New folder\Aerosystem Booking\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] C:\New folder\Aerosystem Booking\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\New folder\Aerosystem Booking\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] C:\New folder\Aerosystem Booking\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-asset] C:\New folder\Aerosystem Booking\node_modules\expo-asset\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-asset] C:\New folder\Aerosystem Booking\node_modules\expo-asset\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-blur] C:\New folder\Aerosystem Booking\node_modules\expo-blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-blur] C:\New folder\Aerosystem Booking\node_modules\expo-blur\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-constants] C:\New folder\Aerosystem Booking\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-constants] C:\New folder\Aerosystem Booking\node_modules\expo-constants\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [:expo-font] C:\New folder\Aerosystem Booking\node_modules\expo-font\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-font] C:\New folder\Aerosystem Booking\node_modules\expo-font\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-haptics] C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-haptics] C:\New folder\Aerosystem Booking\node_modules\expo-haptics\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-keep-awake] C:\New folder\Aerosystem Booking\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-keep-awake] C:\New folder\Aerosystem Booking\node_modules\expo-keep-awake\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-linking] C:\New folder\Aerosystem Booking\node_modules\expo-linking\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-linking] C:\New folder\Aerosystem Booking\node_modules\expo-linking\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-localization] C:\New folder\Aerosystem Booking\node_modules\expo-localization\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-localization] C:\New folder\Aerosystem Booking\node_modules\expo-localization\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-splash-screen] C:\New folder\Aerosystem Booking\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-splash-screen] C:\New folder\Aerosystem Booking\node_modules\expo-splash-screen\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-system-ui] C:\New folder\Aerosystem Booking\node_modules\expo-system-ui\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-system-ui] C:\New folder\Aerosystem Booking\node_modules\expo-system-ui\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:5:5-44
+MERGED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:6:5-44
+MERGED from [com.facebook.react:react-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fb15361400df7dca3771f40242de4076\transformed\react-android-0.76.9-release\AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fb15361400df7dca3771f40242de4076\transformed\react-android-0.76.9-release\AndroidManifest.xml:10:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8998a0d8655e353b85bc7c76b3b552a5\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ece15625b4e46a31ebc6fa468a128d0c\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ece15625b4e46a31ebc6fa468a128d0c\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5bb57a469f165a55f7fe962db7e9890f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5bb57a469f165a55f7fe962db7e9890f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\579512685ac3d38e08bbaed9ca7955b4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\579512685ac3d38e08bbaed9ca7955b4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ad99f5ebbb14f4db592853f32505f96d\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-splashscreen:1.2.0-alpha02] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\181f244e2940343c15184781a1001f48\transformed\core-splashscreen-1.2.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-splashscreen:1.2.0-alpha02] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\181f244e2940343c15184781a1001f48\transformed\core-splashscreen-1.2.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1efa48a438a4d754de00f0e63fd61911\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1efa48a438a4d754de00f0e63fd61911\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43daaa664fb4573f48441f4c3fe1ac8b\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43daaa664fb4573f48441f4c3fe1ac8b\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a95a5828ef66689a535a30c86d8d4019\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a95a5828ef66689a535a30c86d8d4019\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a032d37906ecd92566ac0ca90eee88a5\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a032d37906ecd92566ac0ca90eee88a5\transformed\fragment-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\02936854c69731eb5ff7ed6826d0be85\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\02936854c69731eb5ff7ed6826d0be85\transformed\fragment-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\79f6cb3581988629fa4bc558c1076e33\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\79f6cb3581988629fa4bc558c1076e33\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\783b4bf0839440833ecd154577fce484\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\783b4bf0839440833ecd154577fce484\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f09a00f408cf12383168f3c5c8919cc\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f09a00f408cf12383168f3c5c8919cc\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cb1c6c911c584dfb4dde0b70bfd09f51\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cb1c6c911c584dfb4dde0b70bfd09f51\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\337d01a481d6a5a67468588e962e87f9\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\337d01a481d6a5a67468588e962e87f9\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\36ee64f58b40df4462db9c5db463e335\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\36ee64f58b40df4462db9c5db463e335\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7e7d497e3665adde7bd4d9e2129632b8\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7e7d497e3665adde7bd4d9e2129632b8\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\704e5badc2b49cf1c74defa5ed59e5b0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\704e5badc2b49cf1c74defa5ed59e5b0\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43ceb8baffe0b03f803325fce6d25139\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\43ceb8baffe0b03f803325fce6d25139\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ea269bd59f67fe28815824d50b66f70e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ea269bd59f67fe28815824d50b66f70e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3361b958f713e8ec7f5231b6476cdc36\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3361b958f713e8ec7f5231b6476cdc36\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4eaccdf396f46a9495f417827f6ea131\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4eaccdf396f46a9495f417827f6ea131\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0592b66c7efeaa3389717e15942410d1\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0592b66c7efeaa3389717e15942410d1\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\660786a8d0893d25e7151a8535d75eed\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\660786a8d0893d25e7151a8535d75eed\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\17bcf9ba2b5045a091a141be79cf956c\transformed\autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\17bcf9ba2b5045a091a141be79cf956c\transformed\autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:animated-gif:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\63447920751b3f37eb673ba4e8fd0709\transformed\animated-gif-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-gif:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\63447920751b3f37eb673ba4e8fd0709\transformed\animated-gif-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:webpsupport:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c81a607669b133a229de9a1a178d38e2\transformed\webpsupport-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:webpsupport:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c81a607669b133a229de9a1a178d38e2\transformed\webpsupport-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ec430c81226cb3802e3ac0d1d515c2b2\transformed\fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ec430c81226cb3802e3ac0d1d515c2b2\transformed\fresco-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f367a5ece5f312b1ec5282033f06b4b\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3f367a5ece5f312b1ec5282033f06b4b\transformed\imagepipeline-okhttp3-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\924febf450fb22ea8ad5ce3012767064\transformed\animated-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\924febf450fb22ea8ad5ce3012767064\transformed\animated-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-drawable:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\953a56d183742a3574e941b19357bc8f\transformed\animated-drawable-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:animated-drawable:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\953a56d183742a3574e941b19357bc8f\transformed\animated-drawable-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-options:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ae6b4fd20e024337cb3f5825a32e46a5\transformed\vito-options-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-options:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ae6b4fd20e024337cb3f5825a32e46a5\transformed\vito-options-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0bd34bfd405aec352e48c9831e2e4827\transformed\drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0bd34bfd405aec352e48c9831e2e4827\transformed\drawee-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\96f70f4b0f74ba2645131dfc6ffc6ec2\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\96f70f4b0f74ba2645131dfc6ffc6ec2\transformed\nativeimagefilters-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\34bbd3580853e78027150cbd8a8cc6d2\transformed\memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\34bbd3580853e78027150cbd8a8cc6d2\transformed\memory-type-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2f9765c48512c9cb9b7e6d8f049b2cc9\transformed\memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2f9765c48512c9cb9b7e6d8f049b2cc9\transformed\memory-type-java-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5f27edaa85803ae67bdd843c927a798c\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5f27edaa85803ae67bdd843c927a798c\transformed\imagepipeline-native-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4b33958e5ce9f8cf7bb8509606bafc51\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4b33958e5ce9f8cf7bb8509606bafc51\transformed\memory-type-ashmem-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d0578d021cebf6df7a4673c53b06e976\transformed\imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d0578d021cebf6df7a4673c53b06e976\transformed\imagepipeline-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ab5377ee764f2770a72e21a0eec4c01b\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ab5377ee764f2770a72e21a0eec4c01b\transformed\nativeimagetranscoder-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\448b715c482bc354af7b49c881a85b0d\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\448b715c482bc354af7b49c881a85b0d\transformed\imagepipeline-base-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1a10d80d9a25e5da910e5493bfcda22\transformed\middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1a10d80d9a25e5da910e5493bfcda22\transformed\middleware-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1e8ccffeeb593cc4718764b4f181a1e6\transformed\ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\1e8ccffeeb593cc4718764b4f181a1e6\transformed\ui-common-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0ff2f135b1459039d5c32b17858c847b\transformed\soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0ff2f135b1459039d5c32b17858c847b\transformed\soloader-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bf730b90797406312c98548bc466006a\transformed\fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bf730b90797406312c98548bc466006a\transformed\fbcore-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\488eb3c5765a0cda9a8bd50c5337845f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\488eb3c5765a0cda9a8bd50c5337845f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\56924311ca0ff108c77998ea54eebb43\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\56924311ca0ff108c77998ea54eebb43\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8687f44900a3ece0a081db50739bfdd7\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\8687f44900a3ece0a081db50739bfdd7\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\21e57c66142517d1c776ab7006047b96\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\21e57c66142517d1c776ab7006047b96\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bcb2ddf88cca2632fa89e5b18911a878\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\bcb2ddf88cca2632fa89e5b18911a878\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\967924b7c77932d833a2f3e1151bd50a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\967924b7c77932d833a2f3e1151bd50a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\9b48841cf6b5352ff36c3daeebc68abd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\9b48841cf6b5352ff36c3daeebc68abd\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4a2d053bb361dcb6e3d9e536cb6a0526\transformed\browser-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4a2d053bb361dcb6e3d9e536cb6a0526\transformed\browser-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\370e3cdf0b04da5f8102846292580a9c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\370e3cdf0b04da5f8102846292580a9c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\707e73414859c0813305602a6d961b47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\707e73414859c0813305602a6d961b47\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7c34ae6caf8fe2dcedbb6e51633710c6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\7c34ae6caf8fe2dcedbb6e51633710c6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\08d27a861954a5392509dce56639cc68\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\08d27a861954a5392509dce56639cc68\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a8958094c2e72be669727aa8aaed9853\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a8958094c2e72be669727aa8aaed9853\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2fae46b590a70b0b81261b71834d2657\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2fae46b590a70b0b81261b71834d2657\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\839975acac56fa33e2bed187c3b1d397\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\839975acac56fa33e2bed187c3b1d397\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ee2b05032c3c0c8d7a5fc00319684f65\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\ee2b05032c3c0c8d7a5fc00319684f65\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c0e776ac28eeb1a8ee87e0300cd9f95b\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c0e776ac28eeb1a8ee87e0300cd9f95b\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\725b8c8b8e60e97dd5c5d9f6f28721ff\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\725b8c8b8e60e97dd5c5d9f6f28721ff\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c67e559fec4c2f3d31626d0104e4bd6e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c67e559fec4c2f3d31626d0104e4bd6e\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f28c4aa1c9e26547fd9c65442f51af66\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f28c4aa1c9e26547fd9c65442f51af66\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0c4585f1207d1335d4600b8eeb266d4b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0c4585f1207d1335d4600b8eeb266d4b\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c66fa6bfe287c9d49276f8ac6267e12b\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c66fa6bfe287c9d49276f8ac6267e12b\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c7fcd7597d57c81dac22945ec0bdb09c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c7fcd7597d57c81dac22945ec0bdb09c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\963047afabc4937639b274dfbf4d8743\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\963047afabc4937639b274dfbf4d8743\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\343ffd6820b3f2055a6e4bdf0f010910\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\343ffd6820b3f2055a6e4bdf0f010910\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\785e773c981b9c3b19f497816f891803\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\785e773c981b9c3b19f497816f891803\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6556e62f1127dd615a2b307ab0089b80\transformed\lifecycle-service-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6556e62f1127dd615a2b307ab0089b80\transformed\lifecycle-service-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cf6026ad926275c12c7c1473d109c7d4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\cf6026ad926275c12c7c1473d109c7d4\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a0f3f3bb7ce6bc6f0628cecad1f6675e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a0f3f3bb7ce6bc6f0628cecad1f6675e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\468cb39da09f83e19fd485b8d6ccc878\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\468cb39da09f83e19fd485b8d6ccc878\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\67f72fe4071d8963e1cce0422ccdfd42\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\67f72fe4071d8963e1cce0422ccdfd42\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\09a53af03423b221241cf892a4d24da1\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\09a53af03423b221241cf892a4d24da1\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\b3e9720a7b224dfb06aab766d01d63b4\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\b3e9720a7b224dfb06aab766d01d63b4\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5634f88db939abbce14a3ecc945ee400\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5634f88db939abbce14a3ecc945ee400\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\241c4167ad154d9a161e0f802a04faea\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\241c4167ad154d9a161e0f802a04faea\transformed\tracing-ktx-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3aef31357b0d4b79c92235c2e3d99584\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\3aef31357b0d4b79c92235c2e3d99584\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\aa32f4661f85b2255a547e5b05adf397\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\aa32f4661f85b2255a547e5b05adf397\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-renderer:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c35d2453b6154b1442a5d87dfbf86f9a\transformed\vito-renderer-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:vito-renderer:3.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c35d2453b6154b1442a5d87dfbf86f9a\transformed\vito-renderer-3.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c08e072f8e515d72808790618d6e0266\transformed\hermes-android-0.76.9-release\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.76.9] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c08e072f8e515d72808790618d6e0266\transformed\hermes-android-0.76.9-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2abc9d9cf56128ca6b3df84809d5c44f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\2abc9d9cf56128ca6b3df84809d5c44f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.Dimezis:BlurView:version-2.0.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.Dimezis:BlurView:version-2.0.6] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\626b5fe63024d94d0c1661b6b458d23a\transformed\BlurView-version-2.0.6\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5c55c8f32814be328cd2b0851a05e6bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5c55c8f32814be328cd2b0851a05e6bb\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\10a4513fbe883a25fbcfe6aa9b90be92\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\10a4513fbe883a25fbcfe6aa9b90be92\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\563977e3f96fe1c5e67d6a9e3abde928\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\563977e3f96fe1c5e67d6a9e3abde928\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6f7265e9585cd0d1b8d852fb89d0c84d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6f7265e9585cd0d1b8d852fb89d0c84d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\721f9290a41f46071cc395c63974925b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\721f9290a41f46071cc395c63974925b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f52b14f27993c7698e6b7857ab15778c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f52b14f27993c7698e6b7857ab15778c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0f38b48a9320543aa8e5641bc9c60ea6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0f38b48a9320543aa8e5641bc9c60ea6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f99713486c3970bed2311f04ffbd34f6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\f99713486c3970bed2311f04ffbd34f6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fbb3227bfa6399bf85af81173ed311d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\fbb3227bfa6399bf85af81173ed311d8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4c3492152fa69c7ab62a1c31e38c7d09\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\4c3492152fa69c7ab62a1c31e38c7d09\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\284f302da7aa3a9dd3553e98866f7270\transformed\fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\284f302da7aa3a9dd3553e98866f7270\transformed\fbjni-0.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\New folder\Aerosystem Booking\android\app\src\main\AndroidManifest.xml
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-15:63
+	android:resource
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\New folder\Aerosystem Booking\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:17-67
+intent#action:name:android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:9-17:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:13-79
+	android:name
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:16:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:21:9-30:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:25:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:23:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:24:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:26:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\New folder\Aerosystem Booking\node_modules\expo-file-system\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:22:13-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:9-14:56
+	android:exported
+		ADDED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:expo-location] C:\New folder\Aerosystem Booking\node_modules\expo-location\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:13-78
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:8:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:expo-web-browser] C:\New folder\Aerosystem Booking\node_modules\expo-web-browser\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:21-87
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:9:9-11:89
+	android:value
+		ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:11:13-86
+	android:name
+		ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:10:13-79
+meta-data#com.facebook.soloader.enabled
+ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:12:9-15:45
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:12:9-14:37
+MERGED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:12:9-14:37
+	tools:replace
+		ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:15:13-42
+	android:value
+		ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:14:13-33
+		REJECTED from [com.facebook.soloader:soloader:0.12.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\a898d6a9dca29987f277253dcbe9b475\transformed\soloader-0.12.1\AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [:expo-modules-core] C:\New folder\Aerosystem Booking\node_modules\expo-modules-core\android\build\intermediates\merged_manifest\release\processReleaseManifest\AndroidManifest.xml:13:13-57
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\98905fd464e345e2a63d342edd663411\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\5d04b10e011c96a95b98d10ab752585f\transformed\android-maps-utils-3.8.2\AndroidManifest.xml:9:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:26:5-79
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:13:5-79
+MERGED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\0676eb5b83f1e3d9d6bc46c1e76c9ea5\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\d3692d1e43370824adb52865c2be72c4\transformed\play-services-base-18.2.0\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e99f68e005c6bc646148d7e0df1d25bf\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c14a9cba3ed1c53bf81618e2a10584b5\transformed\work-runtime-2.7.1\AndroidManifest.xml:140:25-85
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6946f14b89c8d968c3fe5af411e2fab9\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.hawk.customerapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.hawk.customerapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c99fa4963b0a8ba0794d3ef8123698c3\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\e1b080befb2281b2fa66cf325a5cfc28\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\6b0795f30c61a8299e7e513588beb5ee\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\eb94021e400af1d4ef195e0afd07be63\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [:expo-location$io.nlopez.smartlocation-jetified-aar] C:\Users\ritvi\.gradle\caches\8.14.2\transforms\c943ad55687777e1763165a4a49e26e4\transformed\io.nlopez.smartlocation-3.3.3-jetified\AndroidManifest.xml:26:13-120
