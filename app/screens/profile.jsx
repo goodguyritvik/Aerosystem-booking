@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import {
   View,
   Text,
@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Stack } from 'expo-router';
-import { doc, getDoc, setDoc } from 'firebase/firestore';
+import { doc, getDoc, setDoc, onSnapshot } from 'firebase/firestore';
 import { auth, db } from '../../constants/firebase';
 
 export default function Profile() {
@@ -24,20 +24,33 @@ export default function Profile() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const fetchProfile = async () => {
-      try {
-        const docRef = doc(db, 'users', 'defaultUser');
-        const docSnap = await getDoc(docRef);
+    // Real-time listener for profile updates
+    const docRef = doc(db, 'users', 'defaultUser');
+    
+    const unsubscribe = onSnapshot(
+      docRef,
+      (docSnap) => {
         if (docSnap.exists()) {
           setProfile(docSnap.data());
+        } else {
+          // Initialize document if it doesn't exist
+          setDoc(docRef, {
+            name: '',
+            occupation: '',
+            phone: '',
+            dob: '',
+          }, { merge: true });
         }
-      } catch (error) {
-        Alert.alert('Error', 'Failed to load profile data.');
-      } finally {
+        setLoading(false);
+      },
+      (error) => {
+        console.error('Error listening to profile updates:', error);
+        Alert.alert('Error', 'Failed to sync profile data.');
         setLoading(false);
       }
-    };
-    fetchProfile();
+    );
+
+    return () => unsubscribe();
   }, []);
 
   const toggleEdit = () => setIsEditing(!isEditing);

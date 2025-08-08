@@ -1,5 +1,5 @@
 import '../polyfill-crypto-getrandomvalues';
-import { useEffect, useState } from "react";
+import { useEffect, useState, createContext, useContext } from "react";
 import { ThemeProvider, DarkTheme, DefaultTheme } from "@react-navigation/native";
 import { Stack } from "expo-router";
 import * as SplashScreen from "expo-splash-screen";
@@ -16,12 +16,19 @@ import {
   Inter_700Bold,
   Inter_900Black,
 } from "@expo-google-fonts/inter";
+import { doc, onSnapshot } from 'firebase/firestore';
+import { db } from '@/constants/firebase';
 
 import WelcomeScreen from "./screens/WelcomeScreen";
 import OtpScreen from "./screens/OtpScreen";
-
-
 import { LocationProvider } from "@/hooks/LocationContext";
+
+// Create context for user name
+const UserNameContext = createContext({
+  userName: '',
+});
+
+export const useUserName = () => useContext(UserNameContext);
 
 SplashScreen.preventAutoHideAsync();
 
@@ -37,6 +44,32 @@ export default function RootLayout() {
 
   // Remove useColorScheme hook since we're forcing light theme
   const [step, setStep] = useState("welcome");
+
+  // Firestore listener for user name sync
+  const [userName, setUserName] = useState('');
+  
+  useEffect(() => {
+    const userDocRef = doc(db, 'users', 'defaultUser');
+    
+    const unsubscribe = onSnapshot(
+      userDocRef,
+      (docSnap) => {
+        if (docSnap.exists()) {
+          const userData = docSnap.data();
+          setUserName(userData.name || '');
+          console.log('User name synced:', userData.name);
+        } else {
+          setUserName('');
+        }
+      },
+      (error) => {
+        console.error('Error syncing user name:', error);
+        setUserName('');
+      }
+    );
+
+    return () => unsubscribe();
+  }, []);
 
   useEffect(() => {
     if (fontsLoaded) {

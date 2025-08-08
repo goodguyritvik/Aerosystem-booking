@@ -16,7 +16,7 @@
   --ndk-version ^
   26 ^
   --output ^
-  "C:\\Users\\ritvi\\AppData\\Local\\Temp\\agp-prefab-staging12168542654986232198\\staged-cli-output" ^
+  "C:\\Users\\ritvi\\AppData\\Local\\Temp\\agp-prefab-staging6209034478851755571\\staged-cli-output" ^
   "C:\\Users\\ritvi\\.gradle\\caches\\8.14.2\\transforms\\fb15361400df7dca3771f40242de4076\\transformed\\react-android-0.76.9-release\\prefab" ^
   "C:\\New folder\\Aerosystem Booking\\android\\app\\build\\intermediates\\cxx\\refs\\react-native-reanimated\\6y5j615e" ^
   "C:\\Users\\ritvi\\.gradle\\caches\\8.14.2\\transforms\\c08e072f8e515d72808790618d6e0266\\transformed\\hermes-android-0.76.9-release\\prefab" ^

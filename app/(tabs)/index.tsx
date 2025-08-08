@@ -14,7 +14,7 @@ import { useLocationContext  } from "@/hooks/LocationContext";
 import { useRouter } from "expo-router";
 import { useTranslation } from "react-i18next";
 import { auth, db } from '../../constants/firebase';
-import { doc, getDoc } from 'firebase/firestore';
+import { doc, onSnapshot } from 'firebase/firestore';
 
 
 export default function HomePage(): JSX.Element {
@@ -29,22 +29,26 @@ export default function HomePage(): JSX.Element {
   const [userName, setUserName] = useState('');
 
   useEffect(() => {
-  const fetchUserName = async () => {
-    try {
-      const docRef = doc(db, 'users', 'defaultUser'); // or use auth.currentUser.uid if auth is set up
-      const docSnap = await getDoc(docRef);
-      if (docSnap.exists()) {
-        const data = docSnap.data();
-        if (data.name) {
-          setUserName(data.name);
+    const docRef = doc(db, 'users', 'defaultUser');
+    
+    const unsubscribe = onSnapshot(
+      docRef,
+      (docSnap) => {
+        if (docSnap.exists()) {
+          const data = docSnap.data();
+          setUserName(data.name || '');
+        } else {
+          setUserName('');
         }
+      },
+      (error) => {
+        console.error('Error syncing user name:', error);
+        setUserName('');
       }
-    } catch (error) {
-      console.error('Failed to fetch user name:', error);
-    }
-  };
-  fetchUserName();
-}, []);
+    );
+
+    return () => unsubscribe();
+  }, []);
 
 
   const locationDisplay = location
@@ -146,7 +150,10 @@ export default function HomePage(): JSX.Element {
           <View
             style={tw`absolute top-0 left-0 right-0 p-4 flex-row justify-between items-center`}
           >
-            <View style={tw`flex-row items-center`}>
+            <TouchableOpacity 
+              style={tw`flex-row items-center`}
+              onPress={() => router.push("/screens/profile")}
+            >
               <MaterialIcons name="person" size={24} color="white" />
               <Text
                 style={[
@@ -156,7 +163,7 @@ export default function HomePage(): JSX.Element {
               >
                 {t("greeting")} {userName || "User"}
               </Text>
-            </View>
+            </TouchableOpacity>
             <TouchableOpacity onPress={() => router.push("/notification")}>
               <MaterialIcons
                 name="notifications-none"

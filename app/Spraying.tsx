@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Text, View, TextInput, TouchableOpacity, SafeAreaView, ScrollView, Modal, FlatList, Alert } from 'react-native';
+import { Text, View, TextInput, TouchableOpacity, SafeAreaView, ScrollView, Modal, FlatList, Alert, Platform } from 'react-native';
 import tw from "../tailwind";
 import { useRouter, useLocalSearchParams } from 'expo-router';
 import MapView from 'react-native-maps';
@@ -57,6 +57,7 @@ const Spraying = () => {
   const [finalPrice, setFinalPrice] = useState(1500.00);
   const [couponError, setCouponError] = useState('');
   const [showCropModal, setShowCropModal] = useState(false);
+  const [showDateModal, setShowDateModal] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredCrops, setFilteredCrops] = useState<string[]>([]);
 
@@ -185,6 +186,41 @@ const StepIcon = ({ icon }: { icon: React.ReactNode }) => (
     handleInputChange('crop', crop);
     setShowCropModal(false);
   };
+
+  const handleSelectDate = (date: string) => {
+    handleInputChange('sprayingDate', date);
+    setShowDateModal(false);
+  };
+
+  const generateCalendarDays = () => {
+    const today = new Date();
+    const currentMonth = today.getMonth();
+    const currentYear = today.getFullYear();
+    const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+    const firstDayOfMonth = new Date(currentYear, currentMonth, 1).getDay();
+    
+    const days = [];
+    
+    // Add empty cells for days before the first day of the month
+    for (let i = 0; i < firstDayOfMonth; i++) {
+      days.push(null);
+    }
+    
+    // Add days of the month
+    for (let day = 1; day <= daysInMonth; day++) {
+      const date = new Date(currentYear, currentMonth, day);
+      const formattedDate = date.toLocaleDateString('en-GB');
+      days.push({
+        day,
+        date: formattedDate,
+        isToday: day === today.getDate()
+      });
+    }
+    
+    return days;
+  };
+
+  const calendarDays = generateCalendarDays();
   
   const renderCropItem = ({ item }: { item: string }) => (
     <TouchableOpacity
@@ -197,6 +233,7 @@ const StepIcon = ({ icon }: { icon: React.ReactNode }) => (
 
   return (
     <SafeAreaView style={tw`flex-1 bg-gray-100`}>
+      {/* Crop Modal */}
       <Modal
         visible={showCropModal}
         animationType="slide"
@@ -230,6 +267,59 @@ const StepIcon = ({ icon }: { icon: React.ReactNode }) => (
               keyExtractor={(item, index) => index.toString()}
               contentContainerStyle={tw`px-4`}
             />
+          </View>
+        </View>
+      </Modal>
+
+      {/* Date Calendar Modal */}
+      <Modal
+        visible={showDateModal}
+        animationType="slide"
+        transparent={true}
+      >
+        <View style={tw`flex-1 bg-black bg-opacity-50`}>
+          <View style={tw`bg-white rounded-t-3xl h-3/4 mt-auto`}>
+            <View style={tw`p-4 flex-row justify-between items-center border-b border-gray-200`}>
+              <Text style={tw`text-lg font-medium`}>Select Date</Text>
+              <TouchableOpacity onPress={() => setShowDateModal(false)}>
+                <Text style={tw`text-gray-500`}>Close</Text>
+              </TouchableOpacity>
+            </View>
+            
+            <View style={tw`p-4`}>
+              <View style={tw`flex-row justify-between mb-4`}>
+                <Text style={tw`text-lg font-semibold`}>
+                  {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
+                </Text>
+              </View>
+              
+              <View style={tw`flex-row justify-between mb-2`}>
+                {['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(day => (
+                  <Text key={day} style={tw`w-10 text-center text-sm font-medium text-gray-600`}>
+                    {day}
+                  </Text>
+                ))}
+              </View>
+              
+              <View style={tw`flex-row flex-wrap`}>
+                {calendarDays.map((day, index) => (
+                  <TouchableOpacity
+                    key={index}
+                    style={tw`w-10 h-10 items-center justify-center m-1 rounded-full ${
+                      day?.isToday ? 'bg-blue-500' : 'bg-gray-100'
+                    }`}
+                    onPress={() => day && handleSelectDate(day.date)}
+                    disabled={!day}
+                  >
+                    {day && (
+                      <Text style={tw`${day.isToday ? 'text-white' : 'text-gray-800'}`}>
+                        {day.day}
+                      </Text>
+                    )}
+                  </TouchableOpacity>
+                ))}
+              </View>
+            </View>
           </View>
         </View>
       </Modal>
@@ -295,12 +385,14 @@ const StepIcon = ({ icon }: { icon: React.ReactNode }) => (
               <StepIcon icon={<Ionicons name="calendar-outline" size={14} color="white" />} />
               <Text style={tw`text-sm`}>When you want spraying?</Text>
             </View>
-            <TextInput
-              placeholder="YYYY-MM-DD"
-              style={tw`border border-gray-300 rounded-full py-3 px-4`}
-              value={formData.sprayingDate}
-              onChangeText={(text) => handleInputChange('sprayingDate', text)}
-            />
+            <TouchableOpacity
+              style={tw`border border-gray-300 rounded-full py-3 px-4 bg-white`}
+              onPress={() => setShowDateModal(true)}
+            >
+              <Text style={tw`text-base`}>
+                {formData.sprayingDate || 'Select date'}
+              </Text>
+            </TouchableOpacity>
           </View>
 
           {/* Agrochemical */}
